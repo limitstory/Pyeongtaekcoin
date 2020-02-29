@@ -1,0 +1,9 @@
+Building Pyeongtaekcoin
+
+See doc/readme-qt.rst for instructions on building Pyeongtaekcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pyeongtaekcoin.
+
+See doc/build-*.txt for instructions on building pyeongtaekcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pyeongtaekcoin.
