@@ -4,7 +4,8 @@ Pyeongtaekcoin integration/staging tree
 http://www.pyeongtaekcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Pyeongtaekcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2020 Pyeongtaekcoin Developers
 
 What is Pyeongtaekcoin?
 ----------------
